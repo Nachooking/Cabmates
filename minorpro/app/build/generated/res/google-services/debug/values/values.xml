@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1005531621550-9d5r81euvjilbbo8umfkr4miu2etrvn1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://minorpro-c0566.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1005531621550</string>
+    <string name="google_api_key" translatable="false">AIzaSyBfK4C6dSvPGA3N6CTJuDchn_HVifjK8H4</string>
+    <string name="google_app_id" translatable="false">1:1005531621550:android:4f5fafca9c8d6d578b653f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBfK4C6dSvPGA3N6CTJuDchn_HVifjK8H4</string>
+    <string name="google_storage_bucket" translatable="false">minorpro-c0566.appspot.com</string>
+    <string name="project_id" translatable="false">minorpro-c0566</string>
+</resources>
