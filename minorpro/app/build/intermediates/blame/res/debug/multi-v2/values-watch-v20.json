@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chaitanya/Desktop/minorpro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/chaitanya/Desktop/Cabmates/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/Users/chaitanya/.gradle/caches/transforms-2/files-2.1/38ce8f5f3089e1b2648e1d94f3b0a183/play-services-auth-17.0.0/res/values-watch-v20/values.xml",

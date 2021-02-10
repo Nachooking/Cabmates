@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chaitanya/Desktop/minorpro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
+            "outputFile": "/Users/chaitanya/Desktop/Cabmates/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
             "map": [
                 {
                     "source": "/Users/chaitanya/.gradle/caches/transforms-2/files-2.1/41c083404c9af70847d7c097a47324c0/core-1.1.0/res/values-es/values-es.xml",

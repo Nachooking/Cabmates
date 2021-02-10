@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chaitanya/Desktop/minorpro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
+            "outputFile": "/Users/chaitanya/Desktop/Cabmates/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
             "map": [
                 {
                     "source": "/Users/chaitanya/.gradle/caches/transforms-2/files-2.1/a70953198d306542d3516d4b33da4a61/jetified-play-services-basement-17.0.0/res/values-si/values.xml",

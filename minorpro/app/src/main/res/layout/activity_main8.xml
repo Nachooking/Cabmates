@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main8Activity"
+    android:background="@drawable/bg1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edit your details here"
+        android:textSize="25dp"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        >
+
+    </TextView>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:text="Name"
+        android:textSize="18dp"
+        android:id="@+id/edit_name"
+        android:layout_marginTop="130dp"
+        android:layout_marginStart="15dp"
+        >
+
+    </TextView>
+
+
+    <EditText
+        android:id="@+id/editName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="130dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:text="Phone Number"
+        android:id="@+id/edit_phone"
+        android:textSize="18dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/editName"
+        android:layout_marginStart="15dp"
+        >
+
+    </TextView>
+
+    <EditText
+        android:id="@+id/editPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginStart="170dp"
+        android:inputType="phone"
+        android:layout_below="@+id/editName"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:textSize="18dp"
+        android:text="Year"
+        android:layout_below="@+id/edit_phone"
+        android:layout_marginTop="10dp"
+        android:id="@+id/edit_year"
+        android:layout_marginStart="15dp"
+        >
+    </TextView>
+
+    <EditText
+        android:id="@+id/editYear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/edit_phone"
+        android:layout_marginStart="170dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:text="Batch"
+        android:layout_below="@+id/editYear"
+        android:layout_marginTop="10dp"
+        android:textSize="18dp"
+        android:id="@+id/edit_batch"
+        android:layout_marginStart="15dp"
+        >
+    </TextView>
+
+    <EditText
+        android:id="@+id/editBatch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/editYear"
+        android:layout_marginStart="170dp"/>
+
+    <Button
+        android:id="@+id/subbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:textColor="#ff9100"
+        android:layout_below="@id/editBatch"
+        android:layout_marginTop="60dp"
+        android:layout_marginStart="160dp"
+        android:background="#000000"/>
+
+    <Button
+    android:id="@+id/backbutton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Back"
+    android:textColor="#ff9100"
+    android:layout_below="@id/editBatch"
+    android:layout_marginTop="160dp"
+    android:layout_marginStart="160dp"
+    android:background="#000000"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="620dp"
+        android:src="@drawable/ic_power_settings_new_black_24dp"
+        android:layout_marginLeft="300dp"
+        android:clickable="true">
+
+    </com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+</RelativeLayout>
+

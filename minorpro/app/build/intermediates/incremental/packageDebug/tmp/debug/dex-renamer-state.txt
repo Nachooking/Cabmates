@@ -1,7 +1,7 @@
-#Wed Aug 12 04:32:39 IST 2020
-base.0=/Users/chaitanya/Desktop/minorpro/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+#Thu Feb 11 01:40:50 IST 2021
+base.0=/Users/chaitanya/Desktop/Cabmates/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/chaitanya/Desktop/minorpro/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.1=/Users/chaitanya/Desktop/Cabmates/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex

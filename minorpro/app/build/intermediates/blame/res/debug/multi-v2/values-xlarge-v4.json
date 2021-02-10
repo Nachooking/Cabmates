@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chaitanya/Desktop/minorpro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "/Users/chaitanya/Desktop/Cabmates/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
                     "source": "/Users/chaitanya/.gradle/caches/transforms-2/files-2.1/4ac1e283645aafd2ff623323b5d88d47/appcompat-1.1.0/res/values-xlarge-v4/values-xlarge-v4.xml",

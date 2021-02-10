@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chaitanya/Desktop/minorpro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/chaitanya/Desktop/Cabmates/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/chaitanya/.gradle/caches/transforms-2/files-2.1/41c083404c9af70847d7c097a47324c0/core-1.1.0/res/values-v21/values-v21.xml",
@@ -61,7 +61,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chaitanya/Desktop/minorpro/app/src/main/res/values-v21/styles.xml",
+                    "source": "/Users/chaitanya/Desktop/Cabmates/app/src/main/res/values-v21/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

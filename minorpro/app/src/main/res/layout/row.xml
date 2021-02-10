@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="25dp"
+    android:clickable="true"
+    android:orientation="horizontal"
+    android:id="@+id/listlayout"
+    android:background="@drawable/listbrdr"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/listtxt1"
+        android:text="listname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listtxt2"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/listtxt1"
+        android:text="listcontact"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listtxt3"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/listtxt2"
+        android:layout_marginLeft="15dp"
+        android:text="Others.."/>
+
+
+</RelativeLayout>

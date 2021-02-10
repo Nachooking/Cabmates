@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RelativeLayout
+    tools:context=".Main4Activity"
+    android:background="@drawable/bg1"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_error_outline_black_24dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginStart="150dp"
+        android:id="@+id/black2"
+
+        />
+
+
+    <EditText
+        android:id="@+id/idemailreset"
+
+        android:layout_width="340dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="250dp"
+        android:background="@drawable/bg_rect_text"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter email id to get Reset password link"
+        android:inputType="textEmailAddress"
+        android:textColorHint="#9B9A9A"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="135dp" />
+
+    <Button android:background="@drawable/bg_text"
+        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        tools:layout_editor_absoluteY="230dp"
+        tools:layout_editor_absoluteX="105dp"
+        android:id="@+id/idresetbutton"
+        android:textColor="#FFFFFF"
+        android:text="Reset Password"
+        android:layout_marginStart="100dp"
+        android:layout_below="@+id/idemailreset"
+        android:layout_marginTop="35dp"
+        />
+
+    <Button
+        android:id="@+id/idbackbutton1"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idresetbutton"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="30sp"
+        android:background="@drawable/bg_text"
+        android:text="@string/back"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

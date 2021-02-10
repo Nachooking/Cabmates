@@ -26,6 +26,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.minorpro.group" />
         <activity android:name="com.example.minorpro.Main8Activity" />
         <activity android:name="com.example.minorpro.Main7Activity" />
         <activity
